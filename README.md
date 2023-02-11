@@ -1,4 +1,7 @@
 # Frontend Mentor - QR code component
+This whole project is build based on the Fronted Mentor | QR-code-component, check the link below 👇
+https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+Thre rest of the ReadMe.md is from the orginal starter files.
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 

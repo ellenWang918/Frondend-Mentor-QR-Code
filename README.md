@@ -40,7 +40,8 @@ Here is a screenshot of my solution.
 ### What I learned
 
 - Practice basic HTML and CSS skills
-- CSS styling
+- [Morden CSS Reset ](https://www.joshwcomeau.com/css/custom-css-reset/)
+- Alwasys remember to add alt attribute to image
 
 
 ## Author
@@ -50,3 +51,4 @@ Here is a screenshot of my solution.
 ## Acknowledgments
 
 Thanks to the Front-end Mentor to provide this project that helps me to utilise my skills and practice it!🎉
+And special thanks to [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar) to provide me some helpful tips!

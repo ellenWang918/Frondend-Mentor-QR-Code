@@ -19,14 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![capture](https://user-images.githubusercontent.com/93024036/218247957-fd3c741d-22ad-480c-8450-85c31092ff41.PNG)
+![capture](https://user-images.githubusercontent.com/93024036/218293447-13d2438c-902c-464f-b349-e749bce110bd.PNG)
 
 Here is a screenshot of my solution.
 
 ### Links
 
 - Solution URL: https://github.com/ellenWang918/Frontend-Projects-QR-code-component
-- Live Site URL: TBC.
+- Live Site URL: https://ellenwang918.github.io/Frondend-Mentor-QR-Code/.
 
 ## My process
 
